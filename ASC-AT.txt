@@ -1,0 +1,7 @@
+Copyright <YEAR> <AUTHOR>
+
+The use, modification, distribution and commercialization of the software is permitted.
+
+If parts of the software are distributed, credit must be given to the copyright holder.
+
+THE SOFTWARE IS DISTRIBUTED AS IS. THE COPYRIGHT HOLDER(S) ARE NOT LIABLE FOR ANY DAMAGE, LOSS OF DATA, OR ANY OTHER FUNCTIONALITY.

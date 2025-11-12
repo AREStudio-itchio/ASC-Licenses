@@ -1,0 +1,5 @@
+Copyright <YEAR> <AUTHOR>
+
+The use, modification, distribution and commercialization of the software is permitted.
+
+THE SOFTWARE IS DISTRIBUTED AS IS. THE COPYRIGHT HOLDER(S) ARE NOT LIABLE FOR ANY DAMAGE, LOSS OF DATA, OR ANY OTHER FUNCTIONALITY.
